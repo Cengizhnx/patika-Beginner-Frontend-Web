@@ -1,1 +1,1 @@
- ![Proje Görseli](/img/screenshot.png)
+![alt](screenshot.png)
